@@ -133,6 +133,7 @@ module.exports = {
 ### Plans
 
 - Add more MIME types as needed
+- Add more options (e.g. enable/disable logging)
 
 ### Known Limitations
 

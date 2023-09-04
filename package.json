@@ -8,6 +8,7 @@
   "bin": {
     "tpack": "./bin/tpack.js"
   },
+  "files": ["bin", "lib"],
   "scripts": {},
   "dependencies": {
     "archiver": "^6.0.0"
