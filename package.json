@@ -4,6 +4,12 @@
   "description": "A simple way to pack addons as zip files for Trilium Notes.",
   "author": "Zerebos",
   "license": "Apache-2.0",
+  "homepage": "https://github.com/rauenzi/trilium-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rauenzi/trilium-pack.git"
+  },
+  "keywords": ["trilium", "notes", "pack", "cli", "zip"],
   "main": "lib/pack.js",
   "bin": {
     "tpack": "./bin/tpack.js"
